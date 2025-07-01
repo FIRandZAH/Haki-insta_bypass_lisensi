@@ -1,3 +1,8 @@
+## 📌 note 
+
+- **note** kalo eror (AttributeError: module 'zstandard' has no attribute 'version') skip aja.
+
+
 ```sh
 pkg install git -y
 pip install requests
